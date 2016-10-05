@@ -52,5 +52,10 @@ Canvas 粒子动画
    particleMaker.run();
 ```
 
+### 效果
+
+![http://ww3.sinaimg.cn/large/0060lm7Tgw1f8hqbgormlg30cs0fuh4t.gif](http://ww3.sinaimg.cn/large/0060lm7Tgw1f8hqbgormlg30cs0fuh4t.gif)
+
+
 ### License
 MIT License
